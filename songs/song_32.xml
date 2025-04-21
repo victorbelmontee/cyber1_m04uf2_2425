@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song id="32">
+  <title>Puesto Pa' Guerrial</title>
+  <artists><artist id="2">Bad Bunny</artist></artists>
+  <genres>
+    <genre id="1"/>
+    <genre id="2"/>
+  </genres>
+  <duration seconds="190"/>
+  <lyrics lang="es" format="srt"></lyrics>
+  <album id="2"/>
+  <record_label id="2"/>
+</song>

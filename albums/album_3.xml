@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album id="3">
+  <title>Destino 2013</title>
+  <cover src="covers/3.png" />
+  <songs>
+    <song id="36" />
+    <song id="37" />
+    <song id="38" />
+    <song id="39" />
+    <song id="40" />
+    <song id="41" />
+    <song id="42" />
+    <song id="43" />
+  </songs>
+</album>
+

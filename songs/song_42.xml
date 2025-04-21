@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song id="42">
+  <title>Tuenti</title>
+  <artists><artist id="3">Raul Clyde</artist></artists>
+  <genres><genre id="3"/></genres>
+  <duration seconds="141"/>
+  <lyrics lang="es" format="srt"></lyrics>
+  <album id="3"/>
+  <record_label id="3"/>
+</song>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist id="3">
+  	<name>Raul Clyde</name>
+  	<nationality country="ES" />
+  	<birthdate date="1997-11-05" /> 
+  <albums>
+    <album id="3" />
+  </albums>
+</artist>
+
