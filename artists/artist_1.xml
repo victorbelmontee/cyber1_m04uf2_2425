@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="1">
+	<name>Feid</name>
+	<nationality country="CO" />
+	<birthdate date="1992-08-19" />
+
+	<albums>
+		<album id="1" />
+	</albums>
+</artist>
+
+
+
+
+

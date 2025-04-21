@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="">
+	<title>Every breath you take</title>
+	<artists>
+		<artist id="1">The Police</artist>
+		<artist id="2">Feid</artist>
+	</artists>
+	<genres>
+		<genre id="" />
+		<genre id="" />
+	</genres>
+	<duration second="" />
+	<lyrics lang="en" format="srt" >
+		00:00:00,000 --> 00:00:04,000
+		Every breath you take
+
+		00:00:04,001 --> 00:00:08,000
+		Every move you make
+	</lyrics>
+	<album id="" />
+	<record_label id="" />
+
+
+</song>
+
+
+
