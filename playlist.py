@@ -1,6 +1,9 @@
 #!/usr/bin/pyhton3
 
 from bs4 import BeautifulSoup
+#!/usr/bin/python3
+
+from bs4 import BeautifulSoup
 
 def show_main_menu():
     while True:
@@ -29,18 +32,17 @@ def show_menu_songs():
         print("0. Volver")
         option = input("Ingrese una opción: ")
         if option.isdigit():
-        	option = int(option)
+            option = int(option)
             if option == 0:
                 return option
             elif option == 1:
-            	return option
-			elif option == 2:
-            	return option
-			else:
+                return option
+            elif option == 2:
+                return option
+            else:
                 print("Opción no válida. Por favor, ingrese un número entre 0 y 2.")
         else:
             print("Entrada no válida. Por favor, ingrese un número.")
-
 
 
 def show_menu_albums():
@@ -55,10 +57,10 @@ def show_menu_albums():
             if option == 0:
                 return option
             elif option == 1:
-            	return option
-			elif option == 2:
-            	return option
-			else:
+                return option
+            elif option == 2:
+                return option
+            else:
                 print("Opción no válida. Por favor, ingrese un número entre 0 y 2.")
         else:
             print("Entrada no válida. Por favor, ingrese un número.")
@@ -74,15 +76,16 @@ def show_menu_artists():
         if option.isdigit():
             option = int(option)
             if option == 0:
-             	return option
-			elif option == 1:
-             	return option
-			elif option == 2:
-             	return option
-			else:
+                return option
+            elif option == 1:
+                return option
+            elif option == 2:
+                return option
+            else:
                 print("Opción no válida. Por favor, ingrese un número entre 0 y 2.")
         else:
             print("Entrada no válida. Por favor, ingrese un número.")
+
 
 def show_menu_genres():
     while True:
@@ -96,16 +99,13 @@ def show_menu_genres():
             if option == 0:
                 return option
             elif option == 1:
-                 return option
+                return option
             elif option == 2:
-				return option
+                return option
             else:
                 print("Opción no válida. Por favor, ingrese un número entre 0 y 2.")
         else:
             print("Entrada no válida. Por favor, ingrese un número.")
-
-
-
 
 version = 0.5
 
